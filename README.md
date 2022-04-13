@@ -12,10 +12,10 @@ npm run dev
 ## Features
 
 * Mobile-first
-* Typography tweaks
+* Better typography
 * Dark mode
 * Images support
-* Analytics (via `astro-analytics`)
+* Analytics
 * SEO
 * Favicon
 * Vue integration
@@ -30,5 +30,6 @@ npm run dev
 
 ## Customization
 
-* Change fonts
-* Change or remove analytics
+* Fonts (Google Fonts)
+* Colors (CSS variables)
+* Analytics (`astro-analytics`)
