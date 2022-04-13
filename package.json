@@ -1,7 +1,12 @@
 {
   "name": "starter-astro",
   "version": "1.0.0",
-  "private": true,
+  "description": "ethers.js-compatible wrapper around Multicall",
+  "author": "Timur Badretdinov <destinerx@gmail.com>",
+  "keywords": [
+    "ethers",
+    "ethereum"
+  ],
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -10,6 +15,11 @@
     "lint:eslint": "eslint \"src/**/*.{js,ts,vue}\"",
     "lint:stylelint": "stylelint \"src/**/*.{css,vue}\""
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Destiner/starter-astro.git"
+  },
+  "license": "MIT",
   "devDependencies": {
     "@astrojs/sitemap": "^0.1.0",
     "@astrojs/vue": "^0.1.1",
