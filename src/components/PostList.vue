@@ -11,7 +11,10 @@
   </ul>
 </template>
 
-<script setup lang="ts">
+<script
+  setup
+  lang="ts"
+>
 import { PropType } from 'vue';
 
 defineProps({
@@ -27,7 +30,7 @@ export interface Post {
   frontmatter: {
     title: string;
     date: string;
-  }
+  };
   url: string;
 }
 </script>

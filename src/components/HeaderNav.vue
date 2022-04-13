@@ -1,9 +1,7 @@
 <template>
   <header>
     <div>
-      <a href="/">
-        The Press
-      </a>
+      <a href="/"> The Press </a>
     </div>
   </header>
 </template>

@@ -7,7 +7,10 @@
   <footer />
 </template>
 
-<script setup lang="ts">
+<script
+  setup
+  lang="ts"
+>
 import { PropType } from 'vue';
 
 import HeaderNav from '@/components/HeaderNav.vue';

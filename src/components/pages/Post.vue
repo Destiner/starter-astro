@@ -9,7 +9,10 @@
   <footer />
 </template>
 
-<script setup lang="ts">
+<script
+  setup
+  lang="ts"
+>
 import HeaderNav from '@/components/HeaderNav.vue';
 
 defineProps({
@@ -17,7 +20,7 @@ defineProps({
     type: String,
     required: true,
   },
-})
+});
 </script>
 
 <style scoped>
