@@ -1,11 +1,11 @@
 {
   "name": "starter-astro",
   "version": "1.0.0",
-  "description": "ethers.js-compatible wrapper around Multicall",
+  "description": "(Almost) unopinionated, unstyled Astro starter, useful for quick prototypes and theme creation",
   "author": "Timur Badretdinov <destinerx@gmail.com>",
   "keywords": [
-    "ethers",
-    "ethereum"
+    "astro",
+    "template"
   ],
   "scripts": {
     "dev": "astro dev",
