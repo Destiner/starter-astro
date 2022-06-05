@@ -23,7 +23,7 @@
   "devDependencies": {
     "@astrojs/sitemap": "^0.1.0",
     "@astrojs/vue": "^0.1.5",
-    "@types/luxon": "^2.3.1",
+    "@types/luxon": "^2.3.2",
     "@typescript-eslint/eslint-plugin": "^5.19.0",
     "@typescript-eslint/parser": "^5.27.0",
     "astro": "^1.0.0-beta.8",
@@ -32,7 +32,7 @@
     "eslint-import-resolver-typescript": "^2.7.1",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-vue": "^8.6.0",
-    "luxon": "^2.3.1",
+    "luxon": "^2.4.0",
     "prettier": "^2.6.2",
     "stylelint": "^14.8.5",
     "stylelint-config-property-sort-order-smacss": "^9.0.0",
